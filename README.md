@@ -1,4 +1,4 @@
-# `zipfs` -- example FUSE filesystem
+## `zipfs` -- example FUSE filesystem
 
 `zipfs` is an example of a [`bazil.org/fuse`](http://bazil.org/fuse/)
 filesystem that serves a Zip archive:
